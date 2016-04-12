@@ -1,0 +1,10 @@
+{
+    "name": "flat",
+    "description": "Take a nested Javascript object and flatten it, or unflatten an object with delimited keys",
+    "repos": "https://github.com/hughsk/flat.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.6.0"
+}
